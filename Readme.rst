@@ -1,7 +1,7 @@
 warc3: Python3 library to work with WARC files
 =============================================
 
-(Note: This is a fork of the original (now dead) warc repository. This project is still in transition and probobly not stable.)
+(Note: This is a fork of the original (now dead) warc repository. This is a rough python3 port / update that I used in my warc-extractor located here https://github.com/recrm/ArchiveTools. As the tool is complete, I have mostly stopped development of this library.)
 
 .. image:: https://secure.travis-ci.org/anandology/warc.png?branch=master
    :alt: build status
